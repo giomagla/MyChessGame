@@ -4,7 +4,7 @@ import com.mychessgame.engine.pieces.*;
 
 public class Board {
     Piece[][] board;
-    String imagePath = "C:\\Users\\ALIENWARE\\Desktop\\MyChessGame\\MyChessGame\\src\\Images\\";
+    String imagePath = " // Image file path //";
     public Board() {
         board = new Piece[8][8];
     }
